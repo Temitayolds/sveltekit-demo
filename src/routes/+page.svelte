@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />Temitayo
+		to your new<br />Temitayo sveltekit App
 	</h1>
 
 	<h2>
